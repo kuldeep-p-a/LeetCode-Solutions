@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3019-number-of-changing-keys](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/3019-number-of-changing-keys) |
 ## Trie
 |  |
 | ------- |
