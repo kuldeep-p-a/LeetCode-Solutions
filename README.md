@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2974-minimum-number-game](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [2974-minimum-number-game](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -78,5 +80,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2974-minimum-number-game](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
