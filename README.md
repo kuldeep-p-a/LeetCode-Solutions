@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3019-number-of-changing-keys](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/3019-number-of-changing-keys) |
 ## Trie
 |  |
