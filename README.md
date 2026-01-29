@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2652-sum-multiples) |
