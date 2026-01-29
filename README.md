@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0709-to-lower-case](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
