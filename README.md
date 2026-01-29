@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
+| [1672-richest-customer-wealth](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-last-stone-weight](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [2974-minimum-number-game](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
