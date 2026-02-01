@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [1486-xor-operation-in-an-array](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
