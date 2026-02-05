@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0977-squares-of-a-sorted-array](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0977-squares-of-a-sorted-array](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/kuldeep-p-a/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 ## Heap (Priority Queue)
